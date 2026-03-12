@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/madder-g/some_repo#readme",
   "dependencies": {
-    "express": "4.0.0"
+    "express": "4.0.0",
+    "eslint": "9.0.0"
   }
 }
