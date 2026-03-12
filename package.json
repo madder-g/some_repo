@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/madder-g/some_repo#readme",
   "dependencies": {
-    "express": "4.18.0"
+    "express": "4.1.0"
   }
 }
