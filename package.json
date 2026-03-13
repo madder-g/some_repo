@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/madder-g/some_repo#readme",
   "dependencies": {
-    "cloudinary": "2.3.1"
+    "cloudinary": "2.9.0"
   }
 }
