@@ -17,6 +17,5 @@
   },
   "homepage": "https://github.com/madder-g/some_repo#readme",
   "dependencies": {
-        "joi": "17.2.0"
   }
 }
