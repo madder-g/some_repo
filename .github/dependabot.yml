@@ -6,3 +6,4 @@ updates:
       interval: "daily"
       # day: "tuesday"
       timezone: "Europe/Paris"
+      time: "12:40"
